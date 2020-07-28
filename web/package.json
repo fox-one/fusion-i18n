@@ -1,0 +1,9 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "scripts": {
+    "i18n:en": "node ./scripts/i18n.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
