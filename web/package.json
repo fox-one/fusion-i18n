@@ -2,7 +2,8 @@
   "name": "web",
   "version": "1.0.0",
   "scripts": {
-    "i18n:en": "node ./scripts/i18n.js"
+    "i18n:en": "node ./scripts/i18n.js",
+    "i18n:ja": "node ./scripts/i18n.js ../elite-wallet/zh.json ../elite-wallet/ja.json"
   },
   "main": "index.js",
   "license": "MIT"
