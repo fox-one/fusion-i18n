@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "i18n:en": "node ./scripts/i18n.js",
-    "i18n:ja": "node ./scripts/i18n.js ../elite-wallet/zh.json ../elite-wallet/ja.json"
+    "i18n:ja": "node ./scripts/i18n.js ../elite-wallet/zh.json ../elite-wallet/ja.json",
+    "i18n": "yarn i18n:en && yarn i18n:ja"
   },
   "main": "index.js",
   "license": "MIT"
