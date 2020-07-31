@@ -408,6 +408,7 @@
   "setting.color-style.green_down_red_up": "赤を上げて緑を下げる",
   "setting.color-style.green_up_red_down": "緑を上げて赤を下げる",
   "setting.currency.cny": "CNY",
+  "setting.currency.jpy": "JPY",
   "setting.currency.usd": "USD",
   "settings.color-style": "色",
   "settings.currency": "通貨",
