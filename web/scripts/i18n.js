@@ -10,7 +10,7 @@ const read = path => JSON.parse(fs.readFileSync(resovle(path)));
 const write = (path, data) =>
   fs.writeFileSync(resovle(path), JSON.stringify(data, null, 2));
 
-const mergeProperty = (a, b) => {
+const mergeProperty = (a, b, reversse = false) => {
   const ksa = Object.keys(a);
   const ksb = Object.keys(b);
 
@@ -22,7 +22,11 @@ const mergeProperty = (a, b) => {
       mergeProperty(a[k], b[k]);
     } else {
       if (!ksb.includes(k)) {
-        b[k] = "!!" + a[k];
+        if (reversse) {
+          a[k] = "--" + a[k];
+        } else {
+          b[k] = "!!" + a[k];
+        }
       }
     }
   }
@@ -37,14 +41,14 @@ const sortProperty = a => {
     }, {});
 };
 
-const path1 = args[0] || "../elite-wallet/en.json";
-const path2 = args[1] || "../elite-wallet/zh.json";
+const path1 = args[0] || "../elite-wallet/zh.json";
+const path2 = args[1] || "../elite-wallet/en.json";
 
 const file1 = read(path1);
 const file2 = read(path2);
 
 mergeProperty(file1, file2);
-mergeProperty(file2, file1);
+mergeProperty(file2, file1, true);
 
 write(path1, sortProperty(file1));
 write(path2, sortProperty(file2));
