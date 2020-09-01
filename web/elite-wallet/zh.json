@@ -229,7 +229,7 @@
   "defi.debit.contact": "点击联系 {0}，沟通具体借贷需求。",
   "defi.debit.contact.detail.title": "{name} 借贷介绍文本",
   "defi.debit.contact.opponent": "Fox.ONE 借贷服务团队",
-  "defi.debit.description": "支持 BTC、ETH、EOS、XIN、FMC1、F2 等代币质押贷出稳定币 USDT，利息优惠，解您燃眉之急",
+  "defi.debit.description": "支持 BTC、ETH、EOS、XIN、FMC1、F2 等代币质押贷出稳定币 USDT，利息优惠，解您燃眉之急。",
   "defi.debit.exchange-radio": "质押率",
   "defi.debit.interest-ratio": "日利率",
   "defi.debit.warn.description": "我们将创建包含您和 Fox.ONE 客服的专属沟通群，详情请进群咨询客服。",
