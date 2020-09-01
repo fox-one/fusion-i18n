@@ -467,6 +467,7 @@
   "tools.auto-trade.subtitle": "自動取引ストラテジーを選択しよう",
   "tools.bots": "ボット",
   "tools.build-in": "組み込む",
+  "tools.debit.description": "資金使用の問題を解決します。 トークンを賭け、stablecoinsを貸します。",
   "tools.instant-trade": "ATM",
   "tools.instant-trade.description": "通貨の取引を行うbotです。",
   "tools.instant-trade.subtitle": "15通貨の取引, 3秒のトランザクション",
