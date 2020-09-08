@@ -626,6 +626,11 @@
   "wallet.transaction.label.trace_id": "Trace ID",
   "wallet.transaction.label.type": "类型",
   "wallet.transaction.title": "转帐详情",
+  "wallet.withdraw.address": "地址",
+  "wallet.withdraw.address-subtitle": "发送给特定的数字货币地址",
+  "wallet.withdraw.choose-method": "选择发送方式",
+  "wallet.withdraw.contact": "联系人",
+  "wallet.withdraw.contact-subtitle": "给你的 Mixin Messenger 联系人转账",
   "wallet.withdraw.errors.amount-invalid": "数据不合法",
   "wallet.withdraw.errors.amount-require": "请填写数量",
   "wallet.withdraw.fee.inffrence": "手续费不足",
@@ -636,6 +641,13 @@
   "wallet.withdraw.label.address": "发送给：{name}",
   "wallet.withdraw.label.amount": "数量",
   "wallet.withdraw.label.memo": "备注",
+  "wallet.withdraw.send": "转账",
+  "wallet.withdraw.send-contact": "转账给联系人",
   "wallet.withdraw.send-fee": "需要 {fee} {feeAssetSymbol} 作为 {assetSymbol} 的提现手续费",
-  "wallet.withdraw.to-buy": "前往购买"
+  "wallet.withdraw.send-to": "发送给...",
+  "wallet.withdraw.send-with": "发送...",
+  "wallet.withdraw.talk-to-them": "和他聊聊",
+  "wallet.withdraw.to-buy": "前往购买",
+  "wallet.withdraw.type-user-id": "输入 Mixin Messenger 账号或者手机号",
+  "wallet.withdraw.user-not-find": "没有找到该用户"
 }

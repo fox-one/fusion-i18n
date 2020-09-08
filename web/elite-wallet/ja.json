@@ -626,6 +626,11 @@
   "wallet.transaction.label.trace_id": "Trace ID",
   "wallet.transaction.label.type": "形式",
   "wallet.transaction.title": "トランザクション",
+  "wallet.withdraw.address": "ウォレットアドレス",
+  "wallet.withdraw.address-subtitle": "特定のデジタル通貨アドレスに送信する",
+  "wallet.withdraw.choose-method": "送信方法を選択",
+  "wallet.withdraw.contact": "連絡窓口",
+  "wallet.withdraw.contact-subtitle": "Mixin Messengerの連絡先に送金する",
   "wallet.withdraw.errors.amount-invalid": "数量が無効です",
   "wallet.withdraw.errors.amount-require": "数量を入力してください",
   "wallet.withdraw.fee.inffrence": "手数料が不十分です",
@@ -636,6 +641,13 @@
   "wallet.withdraw.label.address": "送信先: {name}",
   "wallet.withdraw.label.amount": "数量",
   "wallet.withdraw.label.memo": "メモ",
+  "wallet.withdraw.send": "転送",
+  "wallet.withdraw.send-contact": "連絡先への送金",
   "wallet.withdraw.send-fee": " {assetSymbol}の出金には{fee}{feeAssetSymbol}のトランザクション手数料が必要です",
-  "wallet.withdraw.to-buy": "今すぐ買う"
+  "wallet.withdraw.send-to": "に送る...",
+  "wallet.withdraw.send-with": "送る...",
+  "wallet.withdraw.talk-to-them": "彼とチャットする",
+  "wallet.withdraw.to-buy": "今すぐ買う",
+  "wallet.withdraw.type-user-id": "Mixin Messenger ID または電話番号",
+  "wallet.withdraw.user-not-find": "ユーザーが見つかりませんでした"
 }

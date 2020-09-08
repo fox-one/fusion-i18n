@@ -626,6 +626,11 @@
   "wallet.transaction.label.trace_id": "Trace ID",
   "wallet.transaction.label.type": "Type",
   "wallet.transaction.title": "Transaction",
+  "wallet.withdraw.address": "Address",
+  "wallet.withdraw.address-subtitle": "Send to a specified cryptocurrency address.",
+  "wallet.withdraw.choose-method": "Select Method",
+  "wallet.withdraw.contact": "Contact",
+  "wallet.withdraw.contact-subtitle": "Send to your friends in contacts",
   "wallet.withdraw.errors.amount-invalid": "Amount is invalid",
   "wallet.withdraw.errors.amount-require": "Amount is required",
   "wallet.withdraw.fee.inffrence": "Insufficient Fee",
@@ -636,6 +641,13 @@
   "wallet.withdraw.label.address": "Send to: {name}",
   "wallet.withdraw.label.amount": "Amount",
   "wallet.withdraw.label.memo": "Memo",
+  "wallet.withdraw.send": "Send",
+  "wallet.withdraw.send-contact": "Send to Contact",
   "wallet.withdraw.send-fee": "A transaction fee of {fee} {feeAssetSymbol} is required for withdrawing {assetSymbol}",
-  "wallet.withdraw.to-buy": "Buy Now"
+  "wallet.withdraw.send-to": "Send to...",
+  "wallet.withdraw.send-with": "Send with...",
+  "wallet.withdraw.talk-to-them": "Talk to them",
+  "wallet.withdraw.to-buy": "Buy Now",
+  "wallet.withdraw.type-user-id": "Type Mixin Messenger ID or phone number",
+  "wallet.withdraw.user-not-find": "User not found"
 }
