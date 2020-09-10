@@ -249,6 +249,7 @@
   "defi.enum.scheme-type.current": "Current",
   "defi.enum.scheme-type.node": "Node",
   "defi.enum.scheme-type.pool": "Pool",
+  "defi.enum.scheme-type.term": "Term",
   "defi.enum.transaction-status.fail": "Fail",
   "defi.enum.transaction-status.pending": "Pending",
   "defi.enum.transaction-status.sucess": "Success",

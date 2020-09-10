@@ -249,6 +249,7 @@
   "defi.enum.scheme-type.current": "現在",
   "defi.enum.scheme-type.node": "ノード",
   "defi.enum.scheme-type.pool": "プール",
+  "defi.enum.scheme-type.term": "定期的な財務管理",
   "defi.enum.transaction-status.fail": "失敗",
   "defi.enum.transaction-status.pending": "保留中",
   "defi.enum.transaction-status.sucess": "成功",

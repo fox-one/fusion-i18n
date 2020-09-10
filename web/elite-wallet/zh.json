@@ -249,6 +249,7 @@
   "defi.enum.scheme-type.current": "活期产品",
   "defi.enum.scheme-type.node": "节点产品",
   "defi.enum.scheme-type.pool": "可盈池",
+  "defi.enum.scheme-type.term": "定期产品",
   "defi.enum.transaction-status.fail": "失败",
   "defi.enum.transaction-status.pending": "进行中",
   "defi.enum.transaction-status.sucess": "已完成",
