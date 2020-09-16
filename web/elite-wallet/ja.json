@@ -489,6 +489,8 @@
   "survey.start-btn": "開始",
   "survey.submit-btn": "提出",
   "survey.title": "質問を完了してください",
+  "tools.4swap": "4swap",
+  "tools.4swap.description": "Mixin Networkに基づいて開発されたスワッププロトコル交換",
   "tools.auto-trade": "自動取引",
   "tools.auto-trade.description": "抜け目のない自動取引bot。皆さんのトレードの弱点を克服でき、すべてがシステマチックです。",
   "tools.auto-trade.subtitle": "自動取引ストラテジーを選択しよう",

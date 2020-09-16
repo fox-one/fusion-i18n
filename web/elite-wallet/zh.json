@@ -489,6 +489,8 @@
   "survey.start-btn": "开始测评",
   "survey.submit-btn": "提交",
   "survey.title": "请完成风险测评",
+  "tools.4swap": "4swap",
+  "tools.4swap.description": "基于 Mixin Network 开发的 Swap 协议交易所",
   "tools.auto-trade": "全自动交易",
   "tools.auto-trade.description": "无情的自动卖币机器，克服你的弱点，严格执行既定策略。",
   "tools.auto-trade.subtitle": "选择策略，自动进行交易",

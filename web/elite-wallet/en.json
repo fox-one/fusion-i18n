@@ -489,6 +489,8 @@
   "survey.start-btn": "Start",
   "survey.submit-btn": "Submit",
   "survey.title": "Please complete questions",
+  "tools.4swap": "4swap",
+  "tools.4swap.description": "A decentralized protocol implement for automated liquidity provision on Mixin Network.",
   "tools.auto-trade": "Automatic Trade",
   "tools.auto-trade.description": "Relentless automated trading machine. Overcoming your weaknesses, everything is very disciplined.",
   "tools.auto-trade.subtitle": "Choose a strategy and trade automatically",
